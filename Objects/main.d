@@ -1,0 +1,10 @@
+.\objects\main.o: user\main.c
+.\objects\main.o: .\Freertos_Ports\list.h
+.\objects\main.o: .\Freertos_Ports\portmacro.h
+.\objects\main.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\main.o: .\Freertos_Ports\FreeRTOSConfig.h
+.\objects\main.o: .\Freertos_Ports\FreeRTOS.h
+.\objects\main.o: .\Freertos_Ports\projdefs.h
+.\objects\main.o: .\Freertos_Ports\task.h
+.\objects\main.o: .\Freertos_Ports\port.h

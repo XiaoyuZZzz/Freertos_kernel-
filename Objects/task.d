@@ -1,0 +1,10 @@
+.\objects\task.o: Freeros_Source\task.c
+.\objects\task.o: .\Freertos_Ports\list.h
+.\objects\task.o: .\Freertos_Ports\portmacro.h
+.\objects\task.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\task.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\task.o: .\Freertos_Ports\FreeRTOSConfig.h
+.\objects\task.o: .\Freertos_Ports\FreeRTOS.h
+.\objects\task.o: .\Freertos_Ports\projdefs.h
+.\objects\task.o: .\Freertos_Ports\task.h
+.\objects\task.o: .\Freertos_Ports\port.h
